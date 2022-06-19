@@ -121,6 +121,7 @@ header{
 
 }
 .c-item{
+    overflow: hidden;
     margin-top: 60px;
     padding: 25px 20px 30px;
     color: #000000;
